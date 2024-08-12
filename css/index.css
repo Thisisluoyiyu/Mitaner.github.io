@@ -2305,7 +2305,6 @@ figure.highlight pre .javascript .function {
   margin: 15px 7px;
   width: calc(100% / 3 - 15px);
   height: 90px;
-  border-radius: 8px;
   line-height: 17px;
   -webkit-transform: translateZ(0);
 }
@@ -2362,7 +2361,7 @@ figure.highlight pre .javascript .function {
   margin: 15px 10px;
   width: 60px;
   height: 60px;
-  border-radius: 35px;
+  border-radius: 7px;
   -webkit-transition: width 0.3s ease-out;
   -moz-transition: width 0.3s ease-out;
   -o-transition: width 0.3s ease-out;
