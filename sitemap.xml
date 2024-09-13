@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://mitaner.top/posts/664ff430.html</loc>
+    
+    <lastmod>2024-09-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://mitaner.top/posts/f6c4b2aa.html</loc>
     
     <lastmod>2024-09-12</lastmod>
@@ -49,7 +58,7 @@
 
   <url>
     <loc>https://mitaner.top/</loc>
-    <lastmod>2024-09-12</lastmod>
+    <lastmod>2024-09-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -57,28 +66,35 @@
   
   <url>
     <loc>https://mitaner.top/tags/C/</loc>
-    <lastmod>2024-09-12</lastmod>
+    <lastmod>2024-09-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mitaner.top/tags/mtf/</loc>
+    <lastmod>2024-09-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://mitaner.top/tags/ctf/</loc>
-    <lastmod>2024-09-12</lastmod>
+    <lastmod>2024-09-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://mitaner.top/tags/hexo/</loc>
-    <lastmod>2024-09-12</lastmod>
+    <lastmod>2024-09-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://mitaner.top/tags/blog/</loc>
-    <lastmod>2024-09-12</lastmod>
+    <lastmod>2024-09-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
