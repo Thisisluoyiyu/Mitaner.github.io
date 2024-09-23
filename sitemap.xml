@@ -72,13 +72,6 @@
   </url>
   
   <url>
-    <loc>https://mitaner.top/tags/ctf/</loc>
-    <lastmod>2024-09-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://mitaner.top/tags/mtf/</loc>
     <lastmod>2024-09-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -94,6 +87,13 @@
   
   <url>
     <loc>https://mitaner.top/tags/blog/</loc>
+    <lastmod>2024-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mitaner.top/tags/ctf/</loc>
     <lastmod>2024-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
