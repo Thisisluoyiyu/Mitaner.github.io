@@ -20,15 +20,6 @@
   </url>
   
   <url>
-    <loc>https://mitaner.top/posts/4b555a39.html</loc>
-    
-    <lastmod>2024-09-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://mitaner.top/posts/f8e5179b.html</loc>
     
     <lastmod>2024-09-12</lastmod>
@@ -58,57 +49,43 @@
 
   <url>
     <loc>https://mitaner.top/</loc>
-    <lastmod>2024-10-04</lastmod>
+    <lastmod>2024-10-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
+    <loc>https://mitaner.top/tags/mtf/</loc>
+    <lastmod>2024-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://mitaner.top/tags/ctf/</loc>
-    <lastmod>2024-10-04</lastmod>
+    <lastmod>2024-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://mitaner.top/tags/web/</loc>
-    <lastmod>2024-10-04</lastmod>
+    <lastmod>2024-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://mitaner.top/tags/misc/</loc>
-    <lastmod>2024-10-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://mitaner.top/tags/mtf/</loc>
-    <lastmod>2024-10-04</lastmod>
+    <lastmod>2024-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://mitaner.top/tags/C/</loc>
-    <lastmod>2024-10-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://mitaner.top/tags/hexo/</loc>
-    <lastmod>2024-10-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://mitaner.top/tags/blog/</loc>
-    <lastmod>2024-10-04</lastmod>
+    <lastmod>2024-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
