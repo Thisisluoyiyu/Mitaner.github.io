@@ -90,6 +90,20 @@
   </url>
   
   <url>
+    <loc>https://mitaner.top/tags/github/</loc>
+    <lastmod>2024-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mitaner.top/tags/DNS/</loc>
+    <lastmod>2024-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://mitaner.top/tags/mtf/</loc>
     <lastmod>2024-11-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -112,20 +126,6 @@
   
   <url>
     <loc>https://mitaner.top/tags/misc/</loc>
-    <lastmod>2024-11-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://mitaner.top/tags/github/</loc>
-    <lastmod>2024-11-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://mitaner.top/tags/DNS/</loc>
     <lastmod>2024-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
